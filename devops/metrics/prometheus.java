@@ -75,7 +75,7 @@ public class flukebook
     static final Gauge individualsWithReSight = Gauge.build()
         .name("numIndividualsWithReSight").help("Number of individuals with at least one re-sight.").register(); 
         
-           
+//test to deal with push issue           
 }
 
 //how do we connect this to the wildbook?
